@@ -9,3 +9,7 @@ The original repository for the Soccer Twos Environment can be found [here](http
 In this modified version, we have made the following changes:
 
 &bull; Removed unnecessary files and directories for our specific use case.
+
+# Requirements
+&bull; python 3.8
+&bull; See requirements.txt
