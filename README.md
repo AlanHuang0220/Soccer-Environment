@@ -12,4 +12,5 @@ In this modified version, we have made the following changes:
 
 # Requirements
 &bull; python 3.8
+
 &bull; See requirements.txt
